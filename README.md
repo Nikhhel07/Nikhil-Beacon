@@ -1,4 +1,4 @@
-**Overview**
+# Overview
 
 **This Terraform configuration provisions a secure, multi-AZ AWS VPC with:**
 
@@ -73,7 +73,7 @@ Deny outbound access to a specific IP, 198.51.100.1.
 Stateful rules inspect full sessions and can enforce more complex logic.
 
 
-**   To Run This Terraform Project**
+   ##To Run This Terraform Project
 
    **command:**  **terraform init**
    
