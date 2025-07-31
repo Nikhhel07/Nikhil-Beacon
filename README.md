@@ -74,7 +74,9 @@ Stateful rules inspect full sessions and can enforce more complex logic.
 
 
    **To Run This Terraform Project **
+   
    **command:**  **terraform init**
+   
    **command:**   **Terraform apply**
    
 
