@@ -76,9 +76,9 @@ Stateful rules inspect full sessions and can enforce more complex logic.
 
    ## To Run This Terraform Project
 
-   ### Git clone url
+   ** Git clone url**
 
-   ### cd Nikhil-Beacon
+  **  cd Nikhil-Beacon**
 
    **command:**  **Terraform init**
    
