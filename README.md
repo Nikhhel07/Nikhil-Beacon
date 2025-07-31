@@ -76,7 +76,7 @@ Stateful rules inspect full sessions and can enforce more complex logic.
 
    ## To Run This Terraform VPC Project
 
-   **Git clone url**
+   **Git clone https://github.com/Nikhhel07/Nikhil-Beacon.git**
 
    **cd Nikhil-Beacon**
 
