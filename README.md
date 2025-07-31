@@ -2,6 +2,8 @@
 
 
 Secure AWS VPC with Network Firewall across 3 different AZs – Project Breakdown
+
+
  **1**. **VPC Setup**
 created a Virtual Private Cloud (VPC) that spans 3 Availability Zones (AZs) in one region ( us-east-1). This provides high availability and fault tolerance.
 
