@@ -74,11 +74,11 @@ Deny outbound access to a specific IP, 198.51.100.1.
 Stateful rules inspect full sessions and can enforce more complex logic.
 
 
-   ## To Run This Terraform Project
+   ## To Run This Terraform VPC Project
 
-   ** Git clone url**
+   **Git clone url**
 
-  **  cd Nikhil-Beacon**
+   **cd Nikhil-Beacon**
 
    **command:**  **Terraform init**
    
