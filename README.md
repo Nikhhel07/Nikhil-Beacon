@@ -1,4 +1,10 @@
-# Nikhil-Beacon
+           ----Overview----
+This Terraform configuration provisions a secure, multi-AZ AWS VPC with:
+•	Public and private subnets (across 3 Availability Zones)
+•	Internet Gateway and NAT Gateway for public/private routing
+•	AWS Network Firewall integration with stateless and stateful rule groups
+•	Route tables for internet/NAT routing
+•	Full tagging for environment tracking
 
 
 Secure AWS VPC with Network Firewall across 3 different AZs – Project Breakdown
