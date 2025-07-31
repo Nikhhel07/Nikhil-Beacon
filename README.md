@@ -71,5 +71,10 @@ b. Stateful Rule Group
 Deny outbound access to a specific IP, 198.51.100.1.
 
 Stateful rules inspect full sessions and can enforce more complex logic.
-                                                                    
+
+
+   **To Run This Terraform Project **
+   **command:**  **terraform init**
+   **command:**   **Terraform apply**
+   
 
