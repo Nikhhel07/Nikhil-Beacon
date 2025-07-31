@@ -59,21 +59,22 @@ Acts as a centralized inspection point for traffic between private subnets and o
 
 Routes from private subnets are modified to direct egress traffic through the firewall endpoints.
 
-** 6. Firewall Rules**
+## 6. Firewall Rules
+
  Implemented stateless and stateful rules:
 
-a. Stateless Rule Group
+### Stateless Rule Group
 Allowed outbound HTTP (80) and HTTPS (443).
 
 Stateless rules are evaluated first and don’t keep track of connections.
 
-b. Stateful Rule Group
+### Stateful Rule Group
 Deny outbound access to a specific IP, 198.51.100.1.
 
 Stateful rules inspect full sessions and can enforce more complex logic.
 
 
-   ##To Run This Terraform Project
+   ## To Run This Terraform Project
 
    **command:**  **terraform init**
    
